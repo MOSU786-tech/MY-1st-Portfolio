@@ -14,7 +14,7 @@
 <section id="contact">
     <h2></h2>
     <p>Email: mohammadsultan@example.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/mohammadsultan" target="_blank">linkedin.com/in/mohammed-sultan-b4a64032a</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/linkedin.com/in/mohammed-sultan-">linkedin.com/in/mohammed-sultan-</a></p>
 </section>
 
 <p><a href="network-design-guide.pdf" download>Download Network Design Guide (PDF)</a></p>
