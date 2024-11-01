@@ -6,8 +6,8 @@
 
  <header>
     <nav>
-        <a href=>Projects</a> 
-     <p><a href="network-design-guide.pdf" download>Download Network Design Guide (PDF)</a></p>
+        <a >Projects</a> 
+     <p><a href=[[download>Download Network Design Guide (PDF)](https://github.com/MOSU786-tech/MY-1st-Portfolio/blob/main/linux-commands.png.png)](https://github.com/MOSU786-tech/MY-1st-Portfolio/commit/2c1e11dc06a37d517b620566c79ca3c2e0ee7531)</a></p>
         <a href=></a>
     </nav>
    
