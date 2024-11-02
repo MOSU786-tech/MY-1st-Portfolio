@@ -4,12 +4,12 @@
     <p>Showcasing unique projects and expertise in networking, Linux, and PC customization</p>
 <h1>Network Diagram</h1>
 
- <header>
-    <nav>
-        <a >Projects</a> 
-     <p><a href=[[download>Download Network Design Guide (PDF)](https://github.com/MOSU786-tech/MY-1st-Portfolio/blob/main/linux-commands.png.png)](https://github.com/MOSU786-tech/MY-1st-Portfolio/commit/2c1e11dc06a37d517b620566c79ca3c2e0ee7531)</a></p>
-        <a href=></a>
-    </nav>
+ <section id="projects">
+        <h1>Network Diagram</h1>
+        <p><a href="https://github.com/MOSU786-tech/MY-1st-Portfolio/blob/main/network-design-guide.pdf" download>Download Network Design Guide (PDF)</a></p>
+        <p><a href="https://github.com/MOSU786-tech/MY-1st-Portfolio/blob/main/linux-commands-guide.pdf" download>Download Linux Commands Guide (PDF)</a></p>
+        <p><a href="https://github.com/MOSU786-tech/MY-1st-Portfolio/blob/main/pc-customization-guide.pdf" download>Download PC Customization Guide (PDF)</a></p>
+    </section>
    
 </header>
 
