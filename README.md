@@ -24,8 +24,3 @@
     <p>LinkedIn: <a href="https://linkedin.com/in/mohammed-sultan-b4a64032a" target="_blank">linkedin.com/in/mohammed-sultan-b4a64032a</a></p>
 </section>
 
-</section>
-
-<p><a href="network-design-guide.pdf" download>Download Network Design Guide (PDF)</a></p>
-<p><a href="linux-commands-guide.pdf" download>Download Linux Commands Guide (PDF)</a></p>
-<p><a href="pc-customization-guide.pdf" download>Download PC Customization Guide (PDF)</a></p>
