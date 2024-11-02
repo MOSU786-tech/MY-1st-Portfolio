@@ -2,7 +2,7 @@
  
  <h1>Welcome to Mohammad Sultan's Portfolio</h1>
     <p>Showcasing unique projects and expertise in networking, Linux, and PC customization</p>
-<h1>Network Diagram</h1>
+<h1></h1>
 
  <section id="projects">
         <h1>Network Diagram</h1>
